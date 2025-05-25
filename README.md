@@ -20,4 +20,4 @@ This project involved the end-to-end mapping of all core and supporting processe
 - ✅ Enabled training continuity and knowledge transfer
 
 ### Process Visualisation
-- Data Pipeline![](Process_Visualization.jpg)
+- Pilot training process visualisation![](Process_Visualization.jpg)
